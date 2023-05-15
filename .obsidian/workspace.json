@@ -147,13 +147,21 @@
                 "file": "Random BS/test canvas.canvas"
               }
             }
+          },
+          {
+            "id": "171dc795facb849c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7906bf598196cda5",
+  "active": "74d210066dabf9df",
   "lastOpenFiles": [
+    "gitignore",
+    "New Text Document.txt",
     "Random BS/test note.md",
     "README.md",
     "Random BS/test canvas.canvas",
