@@ -3,10 +3,12 @@
 		{"type":"text","text":"test","id":"12539cc1cbc95c22","x":-680,"y":-280,"width":250,"height":60},
 		{"type":"text","text":"testing","id":"2c9ac80611cc47b4","x":-118,"y":-251,"width":250,"height":60},
 		{"type":"file","file":"Random BS/test note.md","id":"d59ce05b8f3d06e5","x":-20,"y":40,"width":400,"height":400},
-		{"id":"897ecdf4c6f62e53","x":-765,"y":-96,"width":670,"height":653,"type":"link","url":"https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax"}
+		{"type":"link","url":"https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax","id":"897ecdf4c6f62e53","x":-765,"y":-96,"width":670,"height":653},
+		{"id":"b03de223776d8d23","x":-338,"y":-644,"width":250,"height":60,"type":"text","text":"Wooooo"}
 	],
 	"edges":[
 		{"id":"4dd75b95919b23f2","fromNode":"12539cc1cbc95c22","fromSide":"right","toNode":"2c9ac80611cc47b4","toSide":"left"},
-		{"id":"5a008612716fc64a","fromNode":"2c9ac80611cc47b4","fromSide":"bottom","toNode":"d59ce05b8f3d06e5","toSide":"top"}
+		{"id":"5a008612716fc64a","fromNode":"2c9ac80611cc47b4","fromSide":"bottom","toNode":"d59ce05b8f3d06e5","toSide":"top"},
+		{"id":"3d4f55780da194be","fromNode":"2c9ac80611cc47b4","fromSide":"top","toNode":"b03de223776d8d23","toSide":"bottom"}
 	]
 }
